@@ -21,7 +21,7 @@ The datasets can be found at [Zenodo](https://zenodo.org/doi/10.5281/zenodo.1102
 
 | Dataset Name                | Explanation               | Size      | Variable in Scripts           |
 |-----------------------------|---------------------------|-----------|---------------------------|
-| slurm_table_cleaned.parquet | Job data collected by SLURM | 31 MB | path_job_dataset           |
+| slurm_table_cleaned.parquet | Job data collected by SLURM | 26 MB | path_job_dataset           |
 | prom_table_cleaned.parquet |  Node data collected by Prometheus | 16 GB | path_node_dataset           |
 | prom_slurm_joined.parquet |  Joined Job and Node dataset      | 10 GB | path_job_node_joined_dataset |
 | node_hardware_info.parquet |  Hardware configurations of each node | <1 MB| path_node_hardware_info      |
