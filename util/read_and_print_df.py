@@ -2,10 +2,10 @@
 # Set your paths to the datasets here before running any script                         #
 #########################################################################################
 
-path_job_dataset = '/home/newdisk/test/slurm_table_cleaned.parquet'
-path_node_dataset = '/home/newdisk/test/prom_table_cleaned.parquet'
-path_job_node_joined_dataset = '/home/newdisk/test/prom_slurm_joined.parquet'
-path_node_hardware_info = '/home/newdisk/test/node_hardware_info.parquet'
+path_job_dataset = 'change to your dataset dir path/slurm_table_cleaned.parquet'
+path_node_dataset = 'change to your dataset dir path/prom_table_cleaned.parquet'
+path_job_node_joined_dataset = 'change to your dataset dir path/prom_slurm_joined.parquet'
+path_node_hardware_info = 'change to your dataset dir path/node_hardware_info.parquet'
 
 
 
