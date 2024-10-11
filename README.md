@@ -1,7 +1,7 @@
 # Generic and ML Workloads in an HPC Datacenter
 
 This repository contains the scripts used to analyze the hardware and workload characteristics of the  Dutch datacenter SURF Lisa.
-The main focus of this work is to compare generic and Machine Learning (ML) workloads in terms of hardware utilization, power consumption, and job characteristics.
+The main focus of this work is to compare generic and Machine Learning (ML) workloads in terms of hardware utilization, power consumption, and job characteristics. The pre-print of our analysis work can be found on [arXiv](https://arxiv.org/abs/2409.08949).
 
 ## Setup
 
